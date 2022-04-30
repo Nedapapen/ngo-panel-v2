@@ -1,0 +1,2 @@
+A list or a filter for unavailable products (there are many products that their status changes to unavailable on retailers site, so the operator should see those products all together to easily replace them with other ones)
+The potensial in products list to divide products in some groups which could automaticaly be replaced with each other in case one of the product's status changes to unavailable (ex. all milks of the same size or all beans of the same weigt)
